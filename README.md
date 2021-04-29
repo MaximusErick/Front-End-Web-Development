@@ -1,15 +1,6 @@
 <!-- @format -->
 
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/patniritik@gmail.com)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
-[![HitCount](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources.svg)](http://hits.dwyl.io/RitikPatni/Front-End-Web-Development-Resources)
-[![GitHub issues](https://img.shields.io/github/issues/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/issues)
-[![GitHub forks](https://img.shields.io/github/forks/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/network)
-[![GitHub stars](https://img.shields.io/github/stars/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/stargazers)
-[![GitHub license](https://img.shields.io/github/license/RitikPatni/Front-End-Web-Development-Resources.svg)](https://github.com/RitikPatni/Front-End-Web-Development-Resources/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/RitikPatni/Front-End-Web-Development-Resources.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20this%20Amazing%20Resource:&url=https%3A%2F%2Fgithub.com%2FRitikPatni%2FFront-End-Web-Development-Resources)
-
-# Front-end development
+# Front-End Development
 
 # Hi There
 
@@ -17,9 +8,9 @@
 This is an open-source repository for all who want to learn front-end Development.</p>
 
 <br>
-<h2 align="center" ><strong>Front-end development</strong></h2><br>
+<h2 align="center" ><strong>Front-End Development</strong></h2><br>
 
-> **Front-end web development** is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.
+> **Front-End Web Development** is the practice of converting data to a graphical interface, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that data.
 > <br>
 
 **Make sure to show your support by star mark & sharing the repository**
@@ -30,7 +21,7 @@ This is an open-source repository for all who want to learn front-end Developmen
 
 ## Table of Contents
 
-- [Front-end development](#front-end-development)
+- [Front-end development](#Front-End-Development)
 - [Hi There](#hi-there)
 - [A List of Useful Resources for Front End Developers](#a-list-of-useful-resources-for-front-end-developers)
   - [Table of Contents](#table-of-contents)
